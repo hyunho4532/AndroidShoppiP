@@ -45,7 +45,7 @@
     </style>
 
     <style name="TextCaption1" parent="TextAppearance.AppCompat.Caption">
-        <item name="android:textColor">@color_shoppi_black_01</item>
+        <item name="android:textColor">@color/shoppi_black_01</item>
     </style>
 
     <style name="TextCaption1.Grey03" parent="TextAppearance.AppCompat.Caption">
@@ -54,7 +54,7 @@
 
     <style name="TextCaption2" parent="TextAppearance.AppCompat.Caption">
         <item name="android:textSize">11sp</item>
-        <item name="android:textColor">@color_shoppi_black_01</item>
+        <item name="android:textColor">@color/shoppi_black_02</item>
     </style>
 
 </resources>
